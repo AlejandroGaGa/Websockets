@@ -1,0 +1,6 @@
+{/* COnfiguraciones para mi proyecto */
+"presets": [
+    "@babel/preset-env"
+]
+    
+}
